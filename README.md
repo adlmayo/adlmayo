@@ -17,7 +17,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/7836088/179345064-22004e0d-7440-439c-89c3-3abedfee2866.gif" width="400px" />
 
 ## 🧐 About me!
-- 👨‍💻 Android Developer at [Cord Stones Technologies Pvt Ltd](https://www.cordstones.com/).
+- 👨‍💻 Android Engineer at [Cord Stones Technologies Pvt Ltd](https://www.cordstones.com/).
 - 💻 Mostly working on Android❤️ Kotlin❤️.
 - 📱 Working on Meaningful mobile apps.
 - 🏄 Like to explore a new angle in existing ideas.
