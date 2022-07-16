@@ -12,7 +12,7 @@
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">           
-#### I'm Muhammad Adeel Qasim, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech.  I am tech enthusiast who loves building Android Applications and currently focusing on Data Structures and Algorithms.  
+#### I am an Android Engineer👨‍💻 passionate about apps development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/7836088/179345064-22004e0d-7440-439c-89c3-3abedfee2866.gif" width="400px" />
 
