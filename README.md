@@ -1,4 +1,4 @@
-<!-- <img src="user-images.githubusercontent.com/7836088/179341966-750a5573-1011-492a-9bfe-e4c409941700.gif" alt = "hello" width="40px" height="40px"> -->
+<img src="user-images.githubusercontent.com/7836088/179341966-750a5573-1011-492a-9bfe-e4c409941700.gif" alt = "hello" width="40px" height="40px">
 <h1 align="center"> <img src="githubusercontent.com/7836088/179341966-750a5573-1011-492a-9bfe-e4c409941700.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/dheerajkotwani/">Dheeraj Kotwani</a>👨‍💻</h1>
 <!-- # Dheeraj Kotwani 👨‍💻 -->
 
