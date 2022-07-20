@@ -26,6 +26,12 @@
 - ⚡ Fun fact Coffee over anything!!
 - 👯 And many more...
 
+
+### 📊 Github Stats
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adlmayo&count_private=true&show_icons=true&include_all_commits=true" alt="Muhammad Adeel Qasim | Stats" />
+
+---
+
 ## ⚙ Tech Stack
 <p align="center">
 
